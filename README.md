@@ -62,3 +62,4 @@ npm run dev:client
 - Индикатор загрузки при ожидании ответа
 - Обработка ошибок API
 # KazInvest
+# KazInvest
